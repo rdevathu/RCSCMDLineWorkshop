@@ -1,0 +1,5 @@
+WELCOME TO REPLIT
+
+-> We will be using this platform so that we are all working with a similar shell environment
+
+-> Start by navigating to the "Shell" tab above the window on the right.
