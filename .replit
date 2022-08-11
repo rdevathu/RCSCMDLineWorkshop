@@ -1,1 +1,6 @@
+run = []
+
+entrypoint = "intro.txt"
+
+[packager]
 language = "bash"
