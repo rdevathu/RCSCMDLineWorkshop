@@ -5,5 +5,6 @@
 		pkgs.man-pages
 		pkgs.man-pages-posix
 		pkgs.bashInteractive
+		pkgs.feh
 	];
 }
