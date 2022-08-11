@@ -1,6 +1,3 @@
-run = ["run"]
+run = ["bash", "main.sh"]
 
 entrypoint = "intro.txt"
-
-[packager]
-language = "bash"
