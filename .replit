@@ -1,6 +1,6 @@
 run = ["bash", "main.sh"]
 
-entrypoint = "intro.txt"
+entrypoint = "instructions.txt"
 
 [nix]
 channel = "stable-22_05"
