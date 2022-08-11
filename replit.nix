@@ -1,7 +1,9 @@
 { pkgs }: {
 	deps = [
 		pkgs.nano
-		pkgs.man
+		pkgs.man-db
+		pkgs.man-pages
+		pkgs.man-pages-posix
 		pkgs.bashInteractive
 	];
 }
