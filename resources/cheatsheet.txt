@@ -109,3 +109,5 @@ q - to exit "top"
 
 
 man <command> - View the manual for a particular command    OR    <command> --help
+
+SECRET MESSAGE: PYTHON > R
